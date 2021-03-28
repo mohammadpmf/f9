@@ -1,1 +1,2 @@
-class lifeline
+class lifeline:
+	indentation
